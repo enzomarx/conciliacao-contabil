@@ -1,0 +1,3 @@
+class = "Oviparo"
+
+print(class)
