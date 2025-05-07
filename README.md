@@ -10,8 +10,8 @@ A automação que criei permite que o mesmo processo seja repetido em poucos min
 
 Para concluir totalmente a tarefa, agora preciso:
 
-Receber ou importar os dados de fevereiro e março,
+Receber ou importar os dados de fevereiro e março;
 
-Incluir as compras,
+Incluir as compras;
 
 Apurar distribuição de lucros com base nas contas patrimoniais e balancete.
