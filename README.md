@@ -6,9 +6,9 @@ Para o encerramento do 1º trimestre, desenvolvi um sistema de automação que r
 
 O relatório de Janeiro/2024 já foi concluído com base nesses critérios.
 
-⚙️ A automação que criei permite que o mesmo processo seja repetido em poucos minutos para os demais meses.
+A automação que criei permite que o mesmo processo seja repetido em poucos minutos para os demais meses.
 
-➕ Para concluir totalmente a tarefa, agora preciso:
+Para concluir totalmente a tarefa, agora preciso:
 
 Receber ou importar os dados de fevereiro e março,
 
